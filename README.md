@@ -1,2 +1,2 @@
 # Dialysis-Analysis
-Long-Term Pattern Analysis though National Health Insurance (of ROC)
+There are some rumors about that people who live in southern part in Taiwan is more likely to need dialysis. In this report we used the data from National Health Insurance (of ROC) to carefully examine the key-factors such as gender, age, hospitals location and other factors to varify the validity of this rumor and so does discussing the correlation of the probability of a person needed dialysis with other factors.
